@@ -22,3 +22,12 @@ It can apply configuration changes directly to RawAccel by updating the settings
   - restarts RawAccel with new settings
 
 ## 📁 Project Structure
+
+## ⚙ Requirements
+- Python 3.8+
+- Git Bash
+- RawAccel installed (latest version)
+
+Install dependencies:
+```bash
+python -m pip install -r requirements.txt
